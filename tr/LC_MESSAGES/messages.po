@@ -104,7 +104,7 @@ msgid "Bolster the determination to achieve your goals"
 msgstr "Hedeflerinize ulaşmak için kararlılığınızı arttırın"
 
 msgid "Boost motivation and keep it constant"
-msgstr "Motivasyonunuzu yükseltin ve sabit kılın"
+msgstr "Motivasyonunuzu yükseltin ve konsantre olun"
 
 msgid "Break is over"
 msgstr "Ara bitti"
@@ -137,7 +137,7 @@ msgid "Code"
 msgstr "Kod"
 
 msgid "Color Theme"
-msgstr "Tema"
+msgstr "Tema Rengi"
 
 msgid "Configure"
 msgstr "Yapılandır"
@@ -155,13 +155,13 @@ msgid "Create"
 msgstr "Oluştur"
 
 msgid "Create a category"
-msgstr "Kategori yarat"
+msgstr "Kategori oluştur"
 
 msgid "Daily Goal"
-msgstr "Günlük Gol"
+msgstr "Günlük Hedef"
 
 msgid "Daily Goal Completed."
-msgstr "Günlük gol tamamlandı."
+msgstr "Günlük hedef tamamlandı."
 
 msgid "Date format"
 msgstr "Tarih biçimi"
@@ -170,7 +170,7 @@ msgid "Disconnect"
 msgstr "Bağlantısını kesin"
 
 msgid "Don`t start next pomodoro if TODO is empty"
-msgstr "TODO boşsa, bir sonraki pomodoroya başlamayın"
+msgstr "Yapılacaklar listesi boşsa bir sonraki pomodoroya başlamasın"
 
 msgid "Drag&Drop/Touch to sort items."
 msgstr ""
@@ -184,22 +184,22 @@ msgid "Edit"
 msgstr "Düzenlemek"
 
 msgid "Enable Browser Alerts"
-msgstr "Tarayıcı Uyarılarını Etkinleştir"
+msgstr "Tarayıcı Bildirimlerini Etkinleştir"
 
 msgid "Enable Desktop Notifications"
-msgstr "Desktop Bildirimlerini Etkinleştir"
+msgstr "Masaüstü Bildirimlerini Etkinleştir"
 
 msgid "Enable Notifications"
 msgstr "Bildirimlerini Etkinleştir"
 
 msgid "Ends on"
-msgstr "Bitiş tarihi"
+msgstr "Bitiş "
 
 msgid "Enhance focus and concentration by cutting down on interruptions"
 msgstr "Odaklanma ve konsantrasyon kabiliyetlerinizi geliştirin"
 
 msgid "Enjoy your break"
-msgstr "Aranın tadını çıkar"
+msgstr "Molanın tadını çıkar"
 
 msgid "Export the records as CSV"
 msgstr "Kayıtları CSV olarak dışarı aktar"
@@ -211,7 +211,7 @@ msgid "Feedback"
 msgstr "Geri Bildirim"
 
 msgid "File"
-msgstr ""
+msgstr "Dosya"
 
 msgid "Fill blank entries"
 msgstr "Boş girişleri doldur"
@@ -223,13 +223,13 @@ msgid "Great work!"
 msgstr "Harika iş!"
 
 msgid "Help"
-msgstr ""
+msgstr "Yardım"
 
 msgid "Hide notificaions"
 msgstr "Bildirimleri gizle"
 
 msgid "History"
-msgstr ""
+msgstr "Tarih"
 
 msgid "How to fix?"
 msgstr "Nasıl düzeltilir?"
@@ -248,10 +248,10 @@ msgid "Import tasks from CSV"
 msgstr "CSV'den görevleri içe aktarma"
 
 msgid "Import was failed. Check your CSV and try again."
-msgstr "İthalat başarısız oldu. CSV'nizi kontrol edin ve tekrar deneyin."
+msgstr "İçe Aktarma başarısız oldu. CSV'nizi kontrol edin ve tekrar deneyin."
 
 msgid "Imported from External Sources"
-msgstr "Dış kaynaklardan ithal edilen"
+msgstr "Dış kaynaklardan içe aktarılan"
 
 msgid "Improve your work or study process"
 msgstr "Çalışma veya öğrenme sürecinizi geliştirin"
@@ -272,7 +272,7 @@ msgid "Interruption tracked"
 msgstr "Kesinti izlenir"
 
 msgid "Join the global rating"
-msgstr ""
+msgstr "Dünya sıralamasına katıl"
 
 msgid ""
 "Keep on working, Pomodoro after Pomodoro, until the task at hand is "
@@ -330,7 +330,7 @@ msgid "Long break duration"
 msgstr "Uzun mola süresi"
 
 msgid "Look away at something that is 6 metres away for %1$s seconds"
-msgstr ""
+msgstr "6 metre uzaktaki bir şeye %1$s boyunca bakın"
 
 msgid "Mark as done"
 msgstr "Tamamlandı olarak işaretle"
@@ -342,16 +342,16 @@ msgid "Move to Inbox"
 msgstr "Gelen kutusuna taşı"
 
 msgid "Navigate Back"
-msgstr ""
+msgstr "Geri git"
 
 msgid "Navigate Forward"
-msgstr ""
+msgstr "İleri git"
 
 msgid "New"
 msgstr "Yeni"
 
 msgid "Next long break"
-msgstr "Bir sonraki uzun mola"
+msgstr "Sonraki uzun mola"
 
 msgid "Notification Test"
 msgstr "Bildirim testi"
@@ -419,22 +419,22 @@ msgid "Preferences"
 msgstr "Tercihler"
 
 msgid "Press"
-msgstr ""
+msgstr "Bas"
 
 msgid "Profile"
 msgstr "Profil"
 
 msgid "Provide Feedback"
-msgstr "Geribildirim sağlamak"
+msgstr "Geribildirimde bulun"
 
 msgid "Quit"
-msgstr "Çikmak"
+msgstr "Çıkmak"
 
 msgid "Raise browser alert when pomodoro/break is over"
 msgstr "Pomodoro/Mola bittiğinde tarayıcıdan uyarı ver"
 
 msgid "Rate the application"
-msgstr "Uygulamayı derecelendirin"
+msgstr "Uygulamayı oyla"
 
 msgid "Records are empty"
 msgstr "Kayıtlar boş"
@@ -446,19 +446,19 @@ msgid "Register"
 msgstr "Kayıt ol"
 
 msgid "Relax"
-msgstr ""
+msgstr "Rahat"
 
 msgid "Release Notes"
 msgstr "Sürüm notları"
 
 msgid "Remove a task from TODO when Pomodoro is complete"
-msgstr "Pomodoro tamamlandığında bir görevi TODO'dan kaldırma"
+msgstr "Pomodoro tamamlandığında görevi yapılacaklar listesinden kaldır"
 
 msgid "Remove one"
 msgstr "Birini kaldır"
 
 msgid "Repeat"
-msgstr "Tekrar et"
+msgstr "Tekrar"
 
 msgid "Repeat every"
 msgstr "Her tekrarla"
@@ -580,13 +580,13 @@ msgid "TODO list is empty."
 msgstr "Yapılacaklar listesi boş"
 
 msgid "TODO list is updated"
-msgstr "TODO listesi güncellendi"
+msgstr "Yapılacaklar listesi güncellendi"
 
 msgid "Take a short break (3-5 minutes)"
 msgstr "Kısa bir mola verin (3-5 dakika)"
 
 msgid "Take more time to your life."
-msgstr ""
+msgstr "Daha fazla zaman ayırın"
 
 msgid "Thank you for the feedback! Your message is awaiting moderation."
 msgstr "Geri bildirim için teşekkürler! Mesajınız yönetici onayını bekliyor."
